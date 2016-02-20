@@ -1,4 +1,4 @@
 .PHONY: build
 
 build:
-	docker build -t telnet .
+	docker build -t wmgaca/telnet:latest .
